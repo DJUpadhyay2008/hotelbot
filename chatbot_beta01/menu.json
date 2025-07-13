@@ -1,0 +1,380 @@
+{
+    "menu": {
+        "BEVERAGES": [
+            {
+                "item": "TEA",
+                "price": "₹29"
+            },
+            {
+                "item": "BLACK COFFEE",
+                "price": "₹48"
+            },
+            {
+                "item": "GREEN TEA",
+                "price": "₹48"
+            },
+            {
+                "item": "COLD COFFEE",
+                "price": "₹69"
+            },
+            {
+                "item": "HOT CHOCOLATE",
+                "price": "₹69"
+            },
+            {
+                "item": "CLASSIC COLD COFFEE",
+                "price": "₹89"
+            },
+            {
+                "item": "HAZELNUT COLD COFFEE",
+                "price": "₹99"
+            },
+            {
+                "item": "CARAMEL COLD COFFEE",
+                "price": "₹99"
+            },
+            {
+                "item": "DOUBLE CHOCOLATE COFFEE",
+                "price": "₹129"
+            },
+            {
+                "item": "OREO COLD COFFEE",
+                "price": "₹129"
+            },
+            {
+                "item": "NUTELLA COLD COFFEE",
+                "price": "₹139"
+            },
+            {
+                "item": "MINERAL WATER",
+                "price": "ON MRP"
+            }
+        ],
+        "CHINESE": [
+            {
+                "item": "SOUP | HOT & SOUR | MANCHOW",
+                "price": "₹79"
+            },
+            {
+                "item": "DRY MANCHURIAN | GRAVY MANCHURIAN",
+                "price": "₹139"
+            },
+            {
+                "item": "PANEER CHILLY",
+                "price": "₹169"
+            },
+            {
+                "item": "COMBINATION RICE",
+                "price": "₹159"
+            },
+            {
+                "item": "MANCHURIAN RICE",
+                "price": "₹149"
+            },
+            {
+                "item": "SCHEZWAN RICE",
+                "price": "₹149"
+            },
+            {
+                "item": "PANEER FRIED RICE",
+                "price": "₹169"
+            },
+            {
+                "item": "COMBINATION NOODLES",
+                "price": "₹159"
+            },
+            {
+                "item": "HAKKA NOODLES",
+                "price": "₹139"
+            },
+            {
+                "item": "SCHEZWAN NOODLES",
+                "price": "₹149"
+            },
+            {
+                "item": "MANCHURIAN NOODLES",
+                "price": "₹149"
+            },
+            {
+                "item": "CHINESE BHEL",
+                "price": "₹89"
+            }
+        ],
+        "BURGER": [
+            {
+                "item": "ALOO TIKKI",
+                "price": "₹69"
+            },
+            {
+                "item": "VEG",
+                "price": "₹99"
+            },
+            {
+                "item": "PANEER",
+                "price": "₹109"
+            }
+        ],
+        "MAGGI": [
+            {
+                "item": "CLASSIC MAGGI",
+                "price": "₹49"
+            },
+            {
+                "item": "VEG MAGGI",
+                "price": "₹59"
+            },
+            {
+                "item": "BUTTER MAGGI",
+                "price": "₹79"
+            },
+            {
+                "item": "CHEESE MAGGI",
+                "price": "₹79"
+            },
+            {
+                "item": "VEG CHEESE MAGGI",
+                "price": "₹89"
+            },
+            {
+                "item": "SCHEZWAN MAGGI",
+                "price": "₹69"
+            },
+            {
+                "item": "VEG SCHEZWAN MAGGI",
+                "price": "₹79"
+            },
+            {
+                "item": "VEG BUTTER MAGGI",
+                "price": "₹79"
+            },
+            {
+                "item": "VEG BUTTER CHEESE MAGGI",
+                "price": "₹119"
+            }
+        ],
+        "PULAV": [
+            {
+                "item": "VEG PULAV",
+                "price": "₹129"
+            },
+            {
+                "item": "VEG HYDERABAD PULAV",
+                "price": "₹139"
+            },
+            {
+                "item": "PANEER PULAV",
+                "price": "₹149"
+            },
+            {
+                "item": "VEG CHEESE PULAV",
+                "price": "₹159"
+            }
+        ],
+        "MOCKTAILS": [
+            {
+                "item": "VIRGIN MOJITO",
+                "price": "₹79"
+            },
+            {
+                "item": "PEACH MOJITO",
+                "price": "₹89"
+            },
+            {
+                "item": "GREEN APPLE MOJITO",
+                "price": "₹89"
+            },
+            {
+                "item": "MINT MOJITO",
+                "price": "₹79"
+            },
+            {
+                "item": "WATERMELON MOJITO",
+                "price": "₹99"
+            },
+            {
+                "item": "SPARKLING BLUE MOJITO",
+                "price": "₹99"
+            },
+            {
+                "item": "STRAWBERRY MINT MOJITO",
+                "price": "₹109"
+            },
+            {
+                "item": "CRANBERRY PUNCH MOJITO",
+                "price": "₹109"
+            }
+        ],
+        "FRIES": [
+            {
+                "item": "FRENCH FRIES",
+                "price": "₹69"
+            },
+            {
+                "item": "FRENCH FRIES PER PERI",
+                "price": "₹89"
+            },
+            {
+                "item": "FRENCH FRIES WITH MAYO",
+                "price": "₹99"
+            },
+            {
+                "item": "FRENCH FRIES WITH CHEESE",
+                "price": "₹119"
+            }
+        ],
+        "SANDWICH": [
+            {
+                "item": "BREAD BUTTER JAM",
+                "price": "₹69"
+            },
+            {
+                "item": "PLAIN CHEESE GRILLED",
+                "price": "₹99"
+            },
+            {
+                "item": "VEG MAYO GRILLED",
+                "price": "₹119"
+            },
+            {
+                "item": "VEG CHEESE GRILLED",
+                "price": "₹129"
+            },
+            {
+                "item": "PANEER PERI PERI GRILLED",
+                "price": "₹149"
+            },
+            {
+                "item": "PANEER TANDOORI GRILLED",
+                "price": "₹149"
+            }
+        ],
+        "FRANKIE": [
+            {
+                "item": "VEG FRANKIE",
+                "price": "₹69"
+            },
+            {
+                "item": "VEG CHEESE",
+                "price": "₹99"
+            },
+            {
+                "item": "SCHEZWAN",
+                "price": "₹99"
+            },
+            {
+                "item": "PANEER TANDOORI",
+                "price": "₹119"
+            },
+            {
+                "item": "MAYO CHEESE",
+                "price": "₹119"
+            }
+        ],
+        "PUNJABI": [
+            {
+                "item": "PANEER TIKKA MASALA WITH TAWA PARATHA",
+                "price": "₹139"
+            },
+            {
+                "item": "PANEER BUTTER MASALA WITH TAWA PARATHA",
+                "price": "₹149"
+            },
+            {
+                "item": "PANEER BUTTER MASALA WITH TAWA PARATHA (double check price, appears again)",
+                "price": "₹160"
+            },
+            {
+                "item": "KAAJU MASALA WITH TAWA PARATHA",
+                "price": "₹179"
+            },
+            {
+                "item": "KAJU BUTTER CHEESE MASALA WITH TAWA PARATHA",
+                "price": "₹199"
+            },
+            {
+                "item": "EXTRA PARATHA",
+                "price": "₹25"
+            },
+            {
+                "item": "BUTTER PARATHA",
+                "price": "₹25"
+            }
+        ],
+        "PIZZA": [
+            {
+                "item": "MARGHERITA",
+                "price": "₹149"
+            },
+            {
+                "item": "VEG FARM FRESH",
+                "price": "₹169"
+            },
+            {
+                "item": "PANEER TIKKA",
+                "price": "₹179"
+            },
+            {
+                "item": "CORN CHEESE",
+                "price": "₹169"
+            }
+        ],
+        "SHAKES": [
+            {
+                "item": "MIXED BERRIES SHAKE",
+                "price": "₹129",
+                "consistency": "MILK / THICK"
+            },
+            {
+                "item": "BLACK CURRANT SHAKE",
+                "price": "₹129",
+                "consistency": "MILK / THICK"
+            },
+            {
+                "item": "NUTTY NUTELLA SHAKE",
+                "price": "₹129",
+                "consistency": "MILK / THICK"
+            },
+            {
+                "item": "MANGO SHAKE",
+                "price": "₹129",
+                "consistency": "MILK / THICK"
+            },
+            {
+                "item": "STRAWBERRY SHAKE",
+                "price": "₹109",
+                "consistency": "MILK / THICK"
+            },
+            {
+                "item": "CHOCOLATE SHAKE",
+                "price": "₹109",
+                "consistency": "MILK / THICK"
+            },
+            {
+                "item": "OREO CHOCO SHAKE",
+                "price": "₹109",
+                "consistency": "MILK / THICK"
+            },
+            {
+                "item": "CHOCO CHIPS SHAKE",
+                "price": "₹109",
+                "consistency": "MILK / THICK"
+            },
+            {
+                "item": "KITKAT SHAKE",
+                "price": "₹109",
+                "consistency": "MILK / THICK"
+            },
+            {
+                "item": "BUTTER SCOTCH SHAKE",
+                "price": "₹109",
+                "consistency": "MILK / THICK"
+            }
+        ],
+        "PUNJABI FIX DISH": [
+            {
+                "item": "PUNJABI FIX DISH",
+                "price": "₹169"
+            }
+        ]
+    }
+}
